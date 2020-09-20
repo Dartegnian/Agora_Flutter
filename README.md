@@ -1,6 +1,6 @@
-# agora_projects
+# Agora Projects
 
-Agora Philippines government projects viewer.
+Agora Philippines government projects viewer. The Agora app allows you to view the expenditure of government projects, the project breakdown, and other supplementay project information. This is an extension of the [Agora Web App](https://github.com/dartegnian/agora) that our team has developed for F.E.U. Tech's Tamahack 2017 competition.
 
 ## Getting Started
 
